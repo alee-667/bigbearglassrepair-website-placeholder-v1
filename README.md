@@ -1,1 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Located at http://bigbearglassrepair.com/#/
+In progress, waiting on client for graphics, information, links, and calendar setup
+many things are placeholder for now
