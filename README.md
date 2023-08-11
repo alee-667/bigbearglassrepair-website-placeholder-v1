@@ -1,3 +1,3 @@
 Located at http://bigbearglassrepair.com/#/
-In progress, waiting on client for graphics, information, links, and calendar setup
-many things are placeholder for now
+Basic Template to help customer decide on website design
+Real Website will be a private repository and completely written by me
